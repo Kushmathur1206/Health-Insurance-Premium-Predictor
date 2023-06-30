@@ -264,15 +264,15 @@ def Submit():
 
         body = 'Hello {},\n\nYour info:-\n     Age: {}\n     BMI: {}\n     Sex: {}\n     No of children: {}\n     Are you a smoker: {}\n     Region: {}\n\nAs per the details provided above by you, the approximate insurance amount will be around $ {}.'.format(Name.get(),Age.get(),BMI.get(),clicked1.get(),NC.get(),clicked2.get(),clicked3.get(),round(prediction[0],0))
 
-        sender = "kushwork1206@gmail.com"
+        sender = "Enter your email-id"
 
-        password = 'aquuteqiuqbjtdca'
+        password = 'Security key'
         # put the email of the receiver here
         receiver = Email.get()
 
         #Setup the MIME
         message = MIMEMultipart()
-        message['From'] = "kushwork1206@gmail.com"
+        message['From'] = "Enter your email-id"
         message['To'] = Email.get()
         message['Subject'] = 'Quote for insurance policy'
 
