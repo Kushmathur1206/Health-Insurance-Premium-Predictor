@@ -7,11 +7,16 @@ We have used Random Forest Regressor model to generate the most accurate results
 
 
 Initail Form
-![1668361833998](https://github.com/Kushmathur1206/Health-Insurance-Premium-Predictor/assets/99969817/a28963b7-18f6-4647-bfb3-0a5e126c3a43)
+![1668361835152](https://github.com/Kushmathur1206/Health-Insurance-Premium-Predictor/assets/99969817/a4064a59-86bb-4df1-8b2b-4c72986e906d)
+
+
 
 Mail Sent
-![1668361833861](https://github.com/Kushmathur1206/Health-Insurance-Premium-Predictor/assets/99969817/df56d2fe-30d1-4247-aea2-74069eeae58d)
+![1668361833998](https://github.com/Kushmathur1206/Health-Insurance-Premium-Predictor/assets/99969817/a28963b7-18f6-4647-bfb3-0a5e126c3a43)
+
+
 
 Graphs
+![1668361833861](https://github.com/Kushmathur1206/Health-Insurance-Premium-Predictor/assets/99969817/df56d2fe-30d1-4247-aea2-74069eeae58d)
 ![1668361834609](https://github.com/Kushmathur1206/Health-Insurance-Premium-Predictor/assets/99969817/b06ba6a9-4cab-41e6-aa5e-fff7c384b49c)
-![1668361835152](https://github.com/Kushmathur1206/Health-Insurance-Premium-Predictor/assets/99969817/a4064a59-86bb-4df1-8b2b-4c72986e906d)
+
