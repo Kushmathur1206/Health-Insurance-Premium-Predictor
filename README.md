@@ -11,7 +11,7 @@ Initail Form
 
 
 
-Mail Sent
+Mail
 ![1668361833998](https://github.com/Kushmathur1206/Health-Insurance-Premium-Predictor/assets/99969817/a28963b7-18f6-4647-bfb3-0a5e126c3a43)
 
 
