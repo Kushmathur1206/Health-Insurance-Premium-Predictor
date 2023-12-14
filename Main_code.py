@@ -278,7 +278,7 @@ def Submit():
 
         message.attach(MIMEText(body, 'plain'))
 
-        pdfname = 'HACKATHON PROJECT.pdf'
+        pdfname = 'Premium Prediction Criteria.pdf'
 
         # open the file in bynary
         binary_pdf = open(pdfname, 'rb')
