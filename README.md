@@ -3,7 +3,7 @@
 For the AI hackthon(24hr), our team created a Health insurance premium predictor. 
 It is based on the dataset of insurance amount paid by people of different ages, habits, BMI ,region and various other factors(USA).
 The user receives the quotation amount along with the details they filled and the criteria we used to predict the amount in their mail. 
-We have used Random Forest Regressor model to generate the most accurate results possible.
+We have used Random Forest Regressor, linear regression model to generate the most accurate results possible.
 
 
 Initail Form
