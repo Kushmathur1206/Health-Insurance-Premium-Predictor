@@ -22,6 +22,27 @@ Helps users understand how factors like smoking, BMI, or age impact premium pric
 Extend the model with real-time data (like wearable inputs or updated health records) to simulate personalized, usage-based insurance pricing.
 
 
+🧰 Tech Stack
+📊 Data Science & Machine Learning
+- Pandas, NumPy – Data loading and manipulation
+- Matplotlib, Seaborn – Data visualization
+- Scikit-learn – Linear Regression, Model Training, Evaluation
+
+🧠 ML Models
+- Linear Regression (with optional support for Random Forest or other regressors)
+
+💻 GUI
+- Tkinter – Python's built-in GUI for form-based input and interactive desktop applications
+- PIL (Pillow) – Image processing for GUI backgrounds (optional, commented)
+
+✉️ Email Integration
+- smtplib, email.mime – To send prediction results and PDF to user via email
+
+📦 Utilities
+- os, datetime – Optional system-level operations
+- PDF Attachment Support – Via MIMEBase, encoders
+
+
 Initail Form
 ![1668361835152](https://github.com/Kushmathur1206/Health-Insurance-Premium-Predictor/assets/99969817/a4064a59-86bb-4df1-8b2b-4c72986e906d)
 
