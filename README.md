@@ -22,7 +22,7 @@ Helps users understand how factors like smoking, BMI, or age impact premium pric
 Extend the model with real-time data (like wearable inputs or updated health records) to simulate personalized, usage-based insurance pricing.
 
 
-🧰 Tech Stack
+🧰 Tech Stack  
 📊 Data Science & Machine Learning
 - Pandas, NumPy – Data loading and manipulation
 - Matplotlib, Seaborn – Data visualization
